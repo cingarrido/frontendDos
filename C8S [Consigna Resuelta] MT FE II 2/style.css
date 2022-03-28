@@ -1,0 +1,39 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2em 10%;
+  }
+  
+  .item {
+    width: 30em;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 1.5em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+  }
+
+  .item-dif {
+    background-color: rgb(115, 165, 211);
+  }
+  
+  .item img {
+    width: 100%;
+  }
+  
+  .item h2 {
+    font-size: 1em;
+    margin-bottom: .2em;
+  }
+
+  h1 {
+      text-align: center;
+  }
+
+  p {
+        text-align: center;
+  }
+  
